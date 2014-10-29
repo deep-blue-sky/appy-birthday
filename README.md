@@ -13,3 +13,7 @@
 **CSS animations/transitions**
 
 **JavaScript (perhaps to fire events... or other creative uses)**
+
+### This task?
+
+**download (or even better, fork) this repo and add markup, styles and JS to finish turning the PSD into a one page app**
