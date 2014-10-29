@@ -17,3 +17,8 @@
 ### This task?
 
 **download (or even better, fork) this repo and add markup, styles and JS to finish turning the PSD into a one page app**
+
+#### Links
+
+[can-psd-to-html-quality-be-measured](http://xhtmlized.com/blog/can-psd-to-html-quality-be-measured/)
+[code-quality-assurance-checklist](http://xhtmlized.com/blog/code-quality-assurance-checklist/)
