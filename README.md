@@ -4,19 +4,19 @@
 
 ### We would like to see examples of...
 
-**hand written HTML, CSS and JavaScript**
+- hand written HTML, CSS and JavaScript
 
-**ability to effectively reuse existing CSS classes**
+- ability to effectively reuse existing CSS classes
 
-**simple and effectively use of PHP (e.g. loop, arrays, variables, etc)**
+- simple and effectively use of PHP (e.g. loop, arrays, variables, etc)
 
-**CSS animations/transitions**
+- CSS animations/transitions
 
-**JavaScript (perhaps to fire events... or other creative uses)**
+- JavaScript (perhaps to fire events... or other creative uses)
 
 ### This task?
 
-**download (or even better, fork) this repo and add markup, styles and JS to finish turning the PSD into a one page app**
+- download (or even better, fork) this repo and add markup, styles and JS to finish turning the PSD into a one page app
 
 #### Links
 
